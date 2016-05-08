@@ -13,6 +13,7 @@ return $result;
 }
 $new = new Test;
 print_r($new->test());
+//range function
 
 
 
